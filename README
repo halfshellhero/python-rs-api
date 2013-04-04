@@ -1,1 +1,3 @@
 I'm not a developer, but am trying to build some python skills.  Please don't take any of this code seriously as it's probably junk.
+
+challenge1.py - creates 3x 512MB Ubuntu 12.04 servers with the naming convention serverX.
