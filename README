@@ -13,3 +13,10 @@ Challenge 4: Write a script that uses Cloud DNS to create a new A record when pa
  - challenge4.py
 
 Challenge 5: Write a script that creates a Cloud Database instance. This instance should contain at least one database, and the database should have at least one user that can connect to it.
+ - challenge5.py
+
+Challenge 6: Write a script that creates a CDN-enabled container in Cloud Files.
+ - challenge6.py
+
+Challenge 7: Write a script that will create 2 Cloud Servers and add them as nodes to a new Cloud Load Balancer.
+ - challenge7.py
